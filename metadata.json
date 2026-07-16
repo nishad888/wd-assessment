@@ -1,0 +1,6 @@
+{
+  "name": "Lumina",
+  "description": "Lumina is a premium, modern opulence jewelry platform highlighting heirloom craftsmanship, sustainable luxury, and refined aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
